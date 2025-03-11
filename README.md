@@ -66,6 +66,13 @@ De esta forma ya podremos ejecutar nuestra aplicación.
 Una vez abierta la terminal en visual studio code ejecutar ng serve, la terminal nos arrojara datos de ejecución y la ruta web de la aplicación.
 en este caso la ruta es http://localhost:4200
 
+# Build del proyecto
+
+1. Ir al directorio de tu aplicación.
+2. Abrir una consola Git Bash
+3. Ejecutar: ng build
+4. Verificar archivos generados en la carpeta dist del proyecto con el nombre dist/sales-date-prediction.
+
 
 
 
