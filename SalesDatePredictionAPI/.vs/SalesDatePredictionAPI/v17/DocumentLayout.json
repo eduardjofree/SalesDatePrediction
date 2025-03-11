@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|d:\\documentos\\prueba codifico\\salesdatepredictionapi\\data\\storesampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11ADA08-39AE-491E-9E1D-D7D89AFCA979}|SalesDatePredictionAPI.csproj|solutionrelative:data\\storesampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipperController.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Controllers\\ShipperController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:48:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:13:17.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:05:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:23:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:16:42.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:11:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T01:13:14.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreSampleDbContext.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Data\\StoreSampleDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\StoreSampleDbContext.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Data\\StoreSampleDbContext.cs",
+              "RelativeToolTip": "Data\\StoreSampleDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAywBwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:09:13.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documentos\\prueba codifico\\SalesDatePredictionAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:31:47.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

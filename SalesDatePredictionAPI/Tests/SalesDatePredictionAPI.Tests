@@ -1,0 +1,6 @@
+﻿namespace SalesDatePredictionAPI.Tests
+{
+    public class SalesDatePredictionAPI
+    {
+    }
+}

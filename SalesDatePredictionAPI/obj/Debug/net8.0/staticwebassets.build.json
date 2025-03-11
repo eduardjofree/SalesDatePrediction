@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fd8nsIKZnBd6Dau2iTm+1rBMTjGMV7MYw7y9IhRRcGc=",
+  "Source": "SalesDatePredictionAPI",
+  "BasePath": "_content/SalesDatePredictionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
