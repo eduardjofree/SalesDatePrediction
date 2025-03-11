@@ -73,6 +73,10 @@ en este caso la ruta es http://localhost:4200
 3. Ejecutar: ng build
 4. Verificar archivos generados en la carpeta dist del proyecto con el nombre dist/sales-date-prediction.
 
+# Pruebas
+
+Las pruebas de este proyecto se realizaron usando una base temporal mediante la interfaz Swagger para verificación de conexión con la base y sus tablas. 
+
 
 
 
