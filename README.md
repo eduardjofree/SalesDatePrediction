@@ -43,21 +43,21 @@ En caso de no tener instalado angular cli:
 # Actualizar angular cli
 
 En caso de no tener instalado la versión correcta:
-•	Abrir un cmd.
-•	Ejecutar: npm uninstall -g @angular/cli
-•	Limpiar el cahe: npm cache verify
-•	Instalar la última versión de angular cli: npm install -g @angular/cli
-•	Verificar la versión: ng versión
+1.	Abrir un cmd.
+2.	Ejecutar: npm uninstall -g @angular/cli
+3.	Limpiar el cahe: npm cache verify
+4.	Instalar la última versión de angular cli: npm install -g @angular/cli
+5.	Verificar la versión: ng versión
 
 # Instalar node_modules
 Antes de poner en funcionamiento la aplicación, instalaremos los modulos del node:
 
-•	Abre Visual Studio Code.
-•	En la barra de menú superior, selecciona Terminal y luego New Terminal. Alternativamente, puedes usar el atajo de teclado:
-•	Windows/Linux: Ctrl + `` (la tecla justo debajo de Esc`).
-•	Mac: `Cmd + ``.
-•	Esto abrirá un terminal integrado dentro de Visual Studio Code en la parte inferior de la ventana.
-•	Ejecutar: npm install
+1.	Abre Visual Studio Code.
+2.	En la barra de menú superior, selecciona Terminal y luego New Terminal. Alternativamente, puedes usar el atajo de teclado:
+3.	Windows/Linux: Ctrl + `` (la tecla justo debajo de Esc`).
+4.	Mac: `Cmd + ``.
+5.	Esto abrirá un terminal integrado dentro de Visual Studio Code en la parte inferior de la ventana.
+6.	Ejecutar: npm install
 
 De esta forma ya podremos ejecutar nuestra aplicación.
 
