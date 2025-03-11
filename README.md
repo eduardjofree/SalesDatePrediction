@@ -2,10 +2,10 @@
 Patrón de arquitectura de la aplicación: Arquitectura de Cliente-Servidor o Arquitectura de Aplicación Web de 2 Capas.
 SalesDatePredictionAPI
 Datos a considerar:
-•	Versión de Visual Studio: 2022
-•	Framework: .Net Core 8
-•	Aplicación: WebApi
-•	Arquitectura: DDD
+1.	Versión de Visual Studio: 2022
+2.	Framework: .Net Core 8
+3.	Aplicación: WebApi
+4.	Arquitectura: DDD
 
 En el archivo appsettings.json ajustar el nombre de la base de datos, el usuario y el password según como haya construido el escenario anterior o en el que funcione su SSMS.
 
